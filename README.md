@@ -10,7 +10,7 @@ The program consists of a single 8KB .exe file.
 
 You can download it from my website:
 
-http://files.thecybershadow.net/AutoMouseLock/
+https://files.thecybershadow.net/AutoMouseLock/
 
 ### Usage
 
